@@ -61,9 +61,20 @@ extension Person {
 }
 ```
 
+
 **Navigation**
 
 Use Flow Controller as a coordinating controller that manages transitions and data flows between multiple view controllers performing a specific purpose, to prevent tight coupling between view controllers and make it more reusable in different contexts.
 
 * https://davedelong.com/blog/2017/11/06/a-better-mvc-part-2-fixing-encapsulation/
 * https://github.com/onmyway133/blog/issues/106
+
+
+**App Architecture**
+
+MVC, MVVM, MVVM+Rx, VIPER, ...
+
+* https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
+* https://davedelong.com/blog/2017/11/06/a-better-mvc-part-3-fixing-massive-view-controller/
+* https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/
+* https://www.objc.io/books/app-architecture/
