@@ -78,3 +78,7 @@ MVC, MVVM, MVVM+Rx, VIPER, ...
 * https://davedelong.com/blog/2017/11/06/a-better-mvc-part-3-fixing-massive-view-controller/
 * https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/
 * https://www.objc.io/books/app-architecture/
+
+**Other Practices Document**
+
+* https://github.com/futurice/ios-good-practices
