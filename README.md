@@ -61,7 +61,7 @@ extension Person {
 }
 ```
 
-** Navigation **
+**Navigation**
 
 Use Flow Controller as a coordinating controller that manages transitions and data flows between multiple view controllers performing a specific purpose.
 
