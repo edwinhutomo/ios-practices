@@ -81,7 +81,7 @@ MVC, MVVM, MVVM+Rx, VIPER, ...
 
 **Code Structure**
 
-https://www.swiftbysundell.com/posts/structuring-swift-code
+* https://www.swiftbysundell.com/posts/structuring-swift-code
 
 **Other Practices Document**
 
