@@ -1,5 +1,7 @@
 # iOS Good, Better, or Best Practices
 
+This is a compilation of practices from multiple sources that I find very good and so use personally in my projects. These approaches has been working very well for me so far, but as we all know, there's no silver bullet. Therefore, it may be good, better, or best for your own projects :)
+
 **Networking**
 
 Use `Resource` struct to encapsulate API endpoints, for better composition and testability.
@@ -58,3 +60,10 @@ extension Person {
     }
 }
 ```
+
+** Navigation **
+
+Use Flow Controller as a coordinating controller that manages transitions and data flows between multiple view controllers performing a specific purpose.
+
+* https://davedelong.com/blog/2017/11/06/a-better-mvc-part-2-fixing-encapsulation/
+* https://github.com/onmyway133/blog/issues/106
