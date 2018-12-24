@@ -63,7 +63,7 @@ extension Person {
 
 **Navigation**
 
-Use Flow Controller as a coordinating controller that manages transitions and data flows between multiple view controllers performing a specific purpose.
+Use Flow Controller as a coordinating controller that manages transitions and data flows between multiple view controllers performing a specific purpose, to prevent tight coupling between view controllers and make it more reusable in different contexts.
 
 * https://davedelong.com/blog/2017/11/06/a-better-mvc-part-2-fixing-encapsulation/
 * https://github.com/onmyway133/blog/issues/106
