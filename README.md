@@ -79,6 +79,10 @@ MVC, MVVM, MVVM+Rx, VIPER, ...
 * https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/
 * https://www.objc.io/books/app-architecture/
 
+**Code Structure**
+
+https://www.swiftbysundell.com/posts/structuring-swift-code
+
 **Other Practices Document**
 
 * https://github.com/futurice/ios-good-practices
