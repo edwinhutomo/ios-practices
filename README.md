@@ -69,6 +69,17 @@ Use Flow Controller as a coordinating controller that manages transitions and da
 * https://davedelong.com/blog/2017/11/06/a-better-mvc-part-2-fixing-encapsulation/
 * https://github.com/onmyway133/blog/issues/106
 
+**Table View**
+
+Use Protocol Extensions and Generics to simplify `UITableViewCell` registration.
+
+* https://medium.com/@gonzalezreal/ios-cell-registration-reusing-with-swift-protocol-extensions-and-generics-c5ac4fb5b75e
+
+Sample usage:
+
+```swift
+tableView.register(ProfileCell.self)
+```
 
 **App Architecture**
 
